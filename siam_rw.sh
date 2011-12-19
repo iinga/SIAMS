@@ -1,6 +1,6 @@
 #!/sbin/sh
 #
-# ./siam   version: 1.1.2
+# ./siam   version: 1.2
 # Created by: Daniel J Griffiths
 # Support: Contact Ghost1227 on MIUI.us
 # Maintained by: iinga on #miui-us on Freenode
