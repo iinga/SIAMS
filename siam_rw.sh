@@ -7,42 +7,6 @@
 # System Identification And Mounting script
 #
 
-# Supported devices:
-#   B&N Nook Color      (encore)
-#   Google Nexus One    (passion)
-#   Google Nexus S      (crespo)
-#   Google Nexus S 4G   (crespo4g)
-#   HTC Desire          (bravo)
-#   HTC Desire HD       (ace)
-#   HTC Desire S        (saga)
-#   HTC Desire Z        (vision)
-#   HTC EVO 3D          (shooter)
-#   HTC EVO 4G          (supersonic)
-#   HTC EVO Shift 4G    (speedy)
-#   HTC HD2             (leo)
-#   HTC Incredible      (inc)
-#   HTC Incredible 2    (vivow)
-#   HTC Incredible S    (vivo)
-#   HTC Sensation       (pyramid)
-#   LG G2x              (p999)
-#   LG Optimus 2x       (p990)
-#   Motorola Defy       (umts_jordan)
-#   Motorola Droid      (sholes)
-#   Motorola Droid 2    (cdma_droid2)
-#   Motorola Droid X    (cdma_shadow)
-#   Motorola Milestone  (umts_sholes)
-#   Samsung Captivate   (captivatemtd)
-#   Samsung Fascinate   (fascinatemtd)
-#   Samsung Galaxy S    (galaxysmtd)
-#   Samsung Galaxy S II (galaxys2)
-#   Samsung Mesmerize   (mesmerizemtd)
-#   Samsung Showcase    (showcasemtd)
-#   T-Mobile MyTouch 4G (glacier)
-
-# Devices still known to be missing:
-#   HTC Desire (CDMA)   (bravoc)
-#   Samsung Vibrant     (vibrantmtd)
-
 # Device types:
 #   type1:  /dev/block/mtdblock2
 #   type2:  /dev/block/mtdblock3
