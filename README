@@ -1,0 +1,8 @@
+siam   version: 1.0
+Created by: Daniel J Griffiths
+Original Support: Contact Ghost1227 on MIUI.us
+Maintained by: iinga on #miui-us on Freenode
+System Identification And Mounting script
+
+Many thanks to Ghost1227 who originally created this script. I have added devices and modified the script to be called whilst the phone is on, to assit with other scripts I have created.
+Without Ghost1227 I would be nowhere. I know he spent hours on this script and I am truly grateful.
