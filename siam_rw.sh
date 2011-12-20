@@ -79,11 +79,11 @@ case $cdevice in
 	;;
 ### FAILSAFE
   *)
-    echo "Your device is not supported." > /dev/tty0
-    echo "Please email iinga at iinga.net" > /dev/tty0
-    echo "  with the following info:" > /dev/tty0
-    echo "" > /dev/tty0
-    echo "Device: $(getprop ro.product.device)" > /dev/tty0
-    echo "System: $(mount | grep system | cut -d ' ' -f 1)" > /dev/tty0
-    exit 1
+    echo "Your device is not supported." > /data/siams_error.log
+    echo "Please email iinga at iinga.net" > /data/siams_error.log
+    echo "  with the following info:" > /data/siams_error.log
+    echo "" > /data/siams_error.log
+    echo "Device: $(getprop ro.product.device)" > /data/siams_error.log
+    echo "System: $(mount | grep system | cut -d ' ' -f 1)" > /data/siams_error.log
+	exit 1
 esac
